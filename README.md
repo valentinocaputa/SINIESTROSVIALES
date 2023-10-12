@@ -1,6 +1,6 @@
 # :mag_right: Proyecto integrador N2 :mag:
 # Herramientas utilizadas
-https://camo.githubusercontent.com/c55baa119025272015a13e035fdac21ae2544b47d9665dbb0b1a93c84ecb7290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d677261793f7374796c653d666c6174266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465
+![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 # Introduccion
 :pushpin: En este informe, se presenta un análisis de datos sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires (CABA) durante el período comprendido entre 2016 y 2021.
 El objetivo principal de este proyecto es proporcionar información crucial que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales en la ciudad.
