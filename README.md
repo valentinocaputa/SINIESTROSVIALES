@@ -72,4 +72,19 @@ donde se logra la reduccion de ambos kpis, como se puede observar en la siguient
 ![image](https://github.com/valentinocaputa/SINIESTROSVIALES/assets/125314207/e9dbdff5-3dce-4c9d-afd3-547bb64cc1ea)
 ![image](https://github.com/valentinocaputa/SINIESTROSVIALES/assets/125314207/35d4d45c-bf65-4bdc-a3c1-228644a35f0b)
 
+# CONCLUSIONES
+•Se registran entre los años 2016 y 2021 un total de 717 victimas en incidentes viales.
+•Se registró tambien que para todos los años, el mes de DICIEMBRE, emerge como el que más siniestros viales presenta.  
+•Comunmente, estos incidentes se ven reflejados en la franja horaria de la mañana.
+•Las avenidas, siendo arterias principales de tráfico, experimentan el registro mas alto de victimas.
+•Se destaca que, las motocicletas son las que se ven mas involucradas.
+
+# RECOMENDACIONES
+•Se deben implementar medidas efectivas para reducir los siniestros viales en la ciudad, esto puede incluir la instalación de cámaras de vigilancia y la presencia de agentes de transito en areas críticas, como asi tambien la prohibicion de conducir en base a la gravedad del siniestro.
+•Reforzar el control del trafico durante el mes de diciembre, ya que al ser un mes de festividades la gente es mas propensa a conducir alcoholizada, esto puede incluir controles de alcoholemia y la implementación de puestos de control de velocidad.
+•Para los conductores de motocicletas, se pueden llevar a cabo campañas de concientización sobre la importancia de usar el casco en todo momento y sanciones para quienes no lo hagan.
+
+![image](https://github.com/valentinocaputa/SINIESTROSVIALES/assets/125314207/f67099bf-dac8-4437-949e-d3172dc07a8f)
+
+
 
