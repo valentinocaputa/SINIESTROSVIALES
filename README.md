@@ -84,7 +84,7 @@ donde se logra la reduccion de ambos kpis, como se puede observar en la siguient
 •Reforzar el control del trafico durante el mes de diciembre, ya que al ser un mes de festividades la gente es mas propensa a conducir alcoholizada, esto puede incluir controles de alcoholemia y la implementación de puestos de control de velocidad.
 •Para los conductores de motocicletas, se pueden llevar a cabo campañas de concientización sobre la importancia de usar el casco en todo momento y sanciones para quienes no lo hagan.
 
-![image](https://github.com/valentinocaputa/SINIESTROSVIALES/assets/125314207/f67099bf-dac8-4437-949e-d3172dc07a8f)
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/valentino-caputa-700121272/)
+[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=blue)](https://www.gmail.com/caputavalentino)
 
 
