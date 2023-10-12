@@ -2,6 +2,7 @@
 # Herramientas utilizadas
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas%20code&logoColor=blue)
 # Introduccion
 :pushpin: En este informe, se presenta un análisis de datos sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires (CABA) durante el período comprendido entre 2016 y 2021.
 El objetivo principal de este proyecto es proporcionar información crucial que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales en la ciudad.
