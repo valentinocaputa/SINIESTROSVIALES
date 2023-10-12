@@ -85,6 +85,6 @@ donde se logra la reduccion de ambos kpis, como se puede observar en la siguient
 •Para los conductores de motocicletas, se pueden llevar a cabo campañas de concientización sobre la importancia de usar el casco en todo momento y sanciones para quienes no lo hagan.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/valentino-caputa-700121272/)
-[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=blue)](https://www.gmail.com/caputavalentino)
+
 
 
